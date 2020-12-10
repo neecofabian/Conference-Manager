@@ -2,7 +2,7 @@
 
 This document gives instructions to install the program with all dependencies. 
 
-***Note: the Twilio text notification feature only sends to verified caller IDs so you won't be able to see if it's functioning or not, so you likely won't plan on using the Twilio feature. If so, comment out `TwilioEventNotificationGateway.java` and all instances where it is initialized, and you can skip to Step 2.***   
+***Note: the Twilio API text notification feature only sends to verified caller IDs (that we add on the Twilio console) so you won't be able to see its result. In this case, you likely won't plan on using Twilio. But if you still plan on testing out Twilio, complete step 1 and 2 and uncomment out `TwilioEventNotificationGateway.java` and all instances where it is initialized.***   
 
 ### All systems (Linux, Mac OS X, and Windows)
 
