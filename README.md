@@ -1,4 +1,4 @@
-## The Official Conference Planning Managing System Program 2020 (GOTY)
+## Installation: The Official Conference Planning Managing System Program 2020 (GOTY)
 
 This document gives instructions to install the program with all dependencies. 
 
