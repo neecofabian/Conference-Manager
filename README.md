@@ -4,7 +4,7 @@ This document gives instructions to install the program with all dependencies.
 
 ### All systems (Linux, Mac OS X, and Windows)
 
-1. Twilio requires `node.js v10.12 or above`. Make sure you have it [installed](https://nodejs.org/en).
+1. Twilio requires `node.js v10.12 or above`. Make sure you have it [installed](https://nodejs.org/en). When prompted for tokens and accountSID, see ConferencePlanningSystem.
 
 #### For Mac users use:
 ```
@@ -20,7 +20,6 @@ npm install twilio-cli -g
 * You will also need [twilio libraries](https://www.twilio.com/docs/libraries/java#using-without-a-build-automation-tool) for `v8.3.0`.
 * Download [javacord-3.x.x-shaded.jar](https://github.com/Javacord/Javacord/releases/latest) and add to classpath.
 * Include `JUnit4` to classpath
-
 
 
 
