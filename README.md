@@ -1,6 +1,7 @@
 ## Installation: The Official Conference Planning Managing System Program 2020 (GOTY)
 
 This document gives instructions to install the program with all dependencies. 
+![#f03c15 dshjdhfsjkf](https://via.placeholder.com/15/f03c15/000000?text=+)
 
 ### All systems (Linux, Mac OS X, and Windows)
 
