@@ -4,7 +4,7 @@ This document gives instructions to install the program with all dependencies.
 
 ### All systems (Linux, Mac OS X, and Windows)
 
-1. Twilio requires `node.js v10.12 or above`. Make sure you have it [installed](https://nodejs.org/en). When prompted for tokens and accountSID, see ConferencePlanningSystem.
+1. Twilio requires `node.js v10.12 or above`. Make sure you have it [installed](https://nodejs.org/en). 
 
 #### For Mac users use:
 ```
@@ -15,6 +15,9 @@ brew tap twilio/brew && brew install twilio
 ```
 npm install twilio-cli -g
 ```
+
+When prompted for tokens and accountSID, see ConferencePlanningSystem.
+
 2. Since we are not using a build automation system, download the following and add to classpath (File -> Project Structure -> Libraries):
 * You will need [zxing](https://www.callicoder.com/qr-code-reader-scanner-in-java-using-zxing/). Scroll down to `zxing core-3.3.0.jar` and `zxing javase-3.3.0.jar` and download both.
 * You will also need [twilio libraries](https://www.twilio.com/docs/libraries/java#using-without-a-build-automation-tool) for `v8.3.0`.
