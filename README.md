@@ -2,7 +2,7 @@
 
 This document gives instructions to install the program with all dependencies. 
 
-***Note: the Twilio API text notification feature only sends to verified caller IDs (that we add on the Twilio console) so you won't be able to see its result. In this case, you likely won't plan on using Twilio. But if you still plan on testing out Twilio, complete step 1 and 2 and uncomment out `TwilioEventNotificationGateway.java` and all instances where it is initialized.***   
+***Note: the Twilio API text notification feature only sends to verified caller IDs (that we add on the Twilio console) so you won't be able to see its result. In this case, you likely won't plan on using Twilio. However, if you still plan on testing out Twilio, complete step 1 and 2 and uncomment out `TwilioEventNotificationGateway.java` and all instances where it is initialized.***   
 
 ### All systems (Linux, Mac OS X, and Windows)
 
@@ -22,7 +22,7 @@ npm install twilio-cli -g
 
 2. Since we are not using a build automation system, download the following and add to classpath (File -> Project Structure -> Libraries):
 * You will need [zxing](https://www.callicoder.com/qr-code-reader-scanner-in-java-using-zxing/). Scroll down to `zxing core-3.3.0.jar` and `zxing javase-3.3.0.jar` and download both.
-* You will also need [twilio libraries](https://www.twilio.com/docs/libraries/java#using-without-a-build-automation-tool) for `v8.3.0`.
+* You will also need [twilio libraries](https://www.twilio.com/docs/libraries/java#using-without-a-build-automation-tool) for `v8.3.0`. (skip this step if you don't want Twilio)
 * Download [javacord-3.x.x-shaded.jar](https://github.com/Javacord/Javacord/releases/latest) and add to classpath.
 * Include `JUnit4` to classpath
 
