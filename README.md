@@ -1,6 +1,6 @@
-## Installing the Conference Planning System 
+## The Official Conference Planning Managing System Program 2020 (GOTY)
 
-This document gives instructions to install the program with all dependencies.
+This document gives instructions to install the program with all dependencies. 
 
 ### All systems (Linux, Mac OS X, and Windows)
 
@@ -13,7 +13,7 @@ brew tap twilio/brew && brew install twilio
 #### For Windows/Linux users:
 
 ```
-npm install twili-cli -g
+npm install twilio-cli -g
 ```
 2. Since we are not using a build automation system, download the following and add to classpath (File -> Project Structure -> Libraries):
 * You will need [zxing](https://www.callicoder.com/qr-code-reader-scanner-in-java-using-zxing/). Scroll down to `zxing core-3.3.0.jar` and `zxing javase-3.3.0.jar` and download both.
