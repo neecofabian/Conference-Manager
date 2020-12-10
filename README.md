@@ -17,7 +17,7 @@ npm install twilio-cli -g
 ```
 
 ```diff 
-When prompted for token and accountSID, see ConferencePlanningSystem.
+- When prompted for token and accountSID, see ConferencePlanningSystem.
 ```
 
 2. Since we are not using a build automation system, download the following and add to classpath (File -> Project Structure -> Libraries):
