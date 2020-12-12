@@ -26,6 +26,6 @@ npm install twilio-cli -g
 * Download [javacord-3.x.x-shaded.jar](https://github.com/Javacord/Javacord/releases/latest) and add to classpath.
 * Include `JUnit4` to classpath
 
-**Now you're ready to try out our program!**
+## Now you're ready to try out our program!
 
 ![](cat.gif)
