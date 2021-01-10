@@ -12,9 +12,9 @@
 //public class TwilioEventNotificationGateway {
 //    private final ConferenceEventManager conferenceEventManager;
 //    private final AppTrafficManager appTrafficManager;
-//    private final String ADMIN_NUMBER = "+16475460591";
-//    private final String TWILIO_NUMBER = "+16475034217";
-//    private final String MAIN_ADMIN_NUMBER = "+16479079391";
+//    private final String ADMIN_NUMBER = "+REDACTED";
+//    private final String TWILIO_NUMBER = "+REDACTED";
+//    private final String MAIN_ADMIN_NUMBER = "+REDACTED";
 //    private final Timer timer;
 //
 //    /**
