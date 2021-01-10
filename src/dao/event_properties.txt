@@ -1,0 +1,6 @@
+Event Name
+Event Type
+Start time (must be after current time with format: (d)d [3 letter abbrev. of month] YYYY hh:mm ex. 4 May 2021 12:30)
+End time (format: (d)d [3 letter abbrev. of month] YYYY hh:mm ex. 4 May 2021 13:30)
+View Amenities (Do you want to view rooms with certain amenities?) (y/n)
+Capacity (maximum number of people who can attend this event)
