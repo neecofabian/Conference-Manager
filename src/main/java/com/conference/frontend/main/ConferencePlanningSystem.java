@@ -28,9 +28,9 @@ public class ConferencePlanningSystem extends Launcher implements
         Startable, Exitable, Initializer, Observer {
 
     // Twilio and Discord API Token/SID
-    private final String ACCOUNT_SID = "ACfe49360f0d8479fcde5dd218a84059ce";
-    private final String AUTH_TOKEN = "6abb134965814656b108ee31f4711b36";
-    private final String DISCORD_BOT_TOKEN = "Nzg0NjYwODM5NTA3ODIwNTY0.X8siWg.-vDoWnKYHxnVFUiG1INPyN1rNtA";
+    private final String ACCOUNT_SID = "REDACTED";
+    private final String AUTH_TOKEN = "REDACTED";
+    private final String DISCORD_BOT_TOKEN = "REDACTED";
 
     // Constants for the menu options
     private final String QUIT = "9";
